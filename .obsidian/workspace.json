@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "514381883be8a61a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b4db83a7cf9a84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50c1942e1070c5a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec08ae73ac37894e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes for creating polars testing area.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d2dd095b12c5979",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ace6a1b87e8949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29c61f614540a7f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c43b7a3b63709dc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4efe46b249363721",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ad396da0f45d8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9649b2655707670c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c42dd38bb64c0e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes for creating polars testing area.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ae45db028a3c32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes for creating polars testing area.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3064a940bb619873",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f85c55a84a1a4b4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes for creating polars testing area.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ec08ae73ac37894e",
+  "lastOpenFiles": [
+    "code/cargo/keywords/cargo run.md",
+    "code/cargo/keywords/cargo build.md",
+    "code/cargo/keywords/run",
+    "code/cargo/use",
+    "code/cargo/keywords",
+    "code/cargo",
+    "code/zsh/keywords",
+    "code/zsh/use",
+    "code/snippets",
+    "code/zsh/zsh",
+    "code/zsh",
+    "code",
+    "zshrc.md",
+    "configs/zshrc.md",
+    "Notes for creating polars testing area.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "rust/print characters in a string.md",
+    "rust/println!().md",
+    "rust/Create a Literal String.md",
+    "git/Pushing a  new branch to a remote.md",
+    "git/Commonly Used Git Commands.md",
+    "rust/Cargo.toml file.md",
+    "rust/Cargo new init to a binary.md",
+    "polars-specific/Req Info for Settings Up to Contribute to polars.md",
+    "rust/Struct.md",
+    "py/pyenv.md",
+    "polars-specific/Full Pull Reques for TRIM.md",
+    "polars-specific/FIssue.md",
+    "keyboard/Previously Useful Zsh Terminal Commands.md",
+    "keyboard/Previously Useful Obsidian Editor Hotkeys.md",
+    "leetcode/LeetCode 1768. Merge Strings Alternately.md",
+    "git/Git Config.md",
+    "keyboard/Keyboard Shortcut MacOS.md",
+    "rust/Rust running functions and considerations to take when using references(&var) in functions that we want to create.md",
+    "rust/Rust Range handling range inclusivity.md"
+  ]
+}
